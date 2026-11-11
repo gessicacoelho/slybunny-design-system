@@ -43,8 +43,8 @@ Regra do registro: decisão nova ganha número novo. Se uma decisão mudar, a an
 | 0033 | [Nome das cores: mint, sky… ou green, blue…](0033-nome-das-cores-mint-sky-ou-green-blue.md) | Em aberto |
 | 0034 | [TopBar mantém 5 itens, com o coelho verde](0034-topbar-mantem-5-itens-com-o-coelho-verde.md) | Aceita |
 | 0035 | [Recadinho vazio com texto de convite](0035-recadinho-vazio-com-texto-de-convite.md) | Aceita |
-| 0036 | [Cores do app ainda sem token](0036-cores-do-app-ainda-sem-token.md) | Em aberto |
-| 0037 | [Missão Relâmpago sem componente](0037-missao-relampago-sem-componente.md) | Em aberto |
+| 0036 | [Cores do app sem token: como trocar](0036-cores-do-app-ainda-sem-token.md) | Aceita |
+| 0037 | [Missão Relâmpago é uma variante do MissionCard](0037-missao-relampago-sem-componente.md) | Aceita |
 
 ## Como registrar uma decisão nova
 
