@@ -1,0 +1,14 @@
+{
+  "$description": "Primitivos: as cores cruas. Não use direto em componentes (ver decisão 0001).",
+  "color": {
+    "$type": "color",
+    "pink": { "50": { "$value": "#FFF1F4" }, "100": { "$value": "#FEDEE6" }, "200": { "$value": "#FEC1D1" }, "300": { "$value": "#FE9CB9" }, "400": { "$value": "#FF6FA0" }, "500": { "$value": "#E6598B" }, "600": { "$value": "#C74374" }, "700": { "$value": "#A5325D" }, "800": { "$value": "#7E2446" }, "900": { "$value": "#59162F" } },
+    "mint": { "50": { "$value": "#EAFAF0" }, "100": { "$value": "#D1F1DD" }, "200": { "$value": "#AAE4C1" }, "300": { "$value": "#76D5A0" }, "400": { "$value": "#31C481" }, "500": { "$value": "#14AD6E" }, "600": { "$value": "#11915B" }, "700": { "$value": "#0D764A" }, "800": { "$value": "#065936" }, "900": { "$value": "#023E24" } },
+    "sky": { "50": { "$value": "#ECF7FF" }, "100": { "$value": "#D2ECFF" }, "200": { "$value": "#ABDBFC" }, "300": { "$value": "#79C8FA" }, "400": { "$value": "#40B3F4" }, "500": { "$value": "#0D9DDF" }, "600": { "$value": "#0B83BC" }, "700": { "$value": "#086B99" }, "800": { "$value": "#045075" }, "900": { "$value": "#013752" } },
+    "tangerine": { "50": { "$value": "#FFF2EA" }, "100": { "$value": "#FFE2CD" }, "200": { "$value": "#FBC8A3" }, "300": { "$value": "#F7AA6E" }, "400": { "$value": "#EF8B30" }, "500": { "$value": "#D77505" }, "600": { "$value": "#B56205" }, "700": { "$value": "#934F04" }, "800": { "$value": "#703A02" }, "900": { "$value": "#4F2700" } },
+    "lilac": { "50": { "$value": "#F8F2FF" }, "100": { "$value": "#EEE2FE" }, "200": { "$value": "#E0C8FD" }, "300": { "$value": "#CFAAFB" }, "400": { "$value": "#BF8CF6" }, "500": { "$value": "#AB73E4" }, "600": { "$value": "#915CC6" }, "700": { "$value": "#7749A4" }, "800": { "$value": "#5A367D" }, "900": { "$value": "#3E2458" } },
+    "honey": { "50": { "$value": "#FAF5E7" }, "100": { "$value": "#F3E7CA" }, "200": { "$value": "#E8D29E" }, "300": { "$value": "#DCBA64" }, "400": { "$value": "#CEA10C" }, "500": { "$value": "#B38C14" }, "600": { "$value": "#987500" }, "700": { "$value": "#7B5F00" }, "800": { "$value": "#5D4700" }, "900": { "$value": "#413000" } },
+    "coral": { "50": { "$value": "#FFF2F0" }, "100": { "$value": "#FEE0DC" }, "200": { "$value": "#FEC4BE" }, "300": { "$value": "#FEA199" }, "400": { "$value": "#FD7A73" }, "500": { "$value": "#F05653" }, "600": { "$value": "#D0403F" }, "700": { "$value": "#AC3030" }, "800": { "$value": "#842222" }, "900": { "$value": "#5D1515" } },
+    "neutral": { "0": { "$value": "#FFFFFF" }, "50": { "$value": "#F1F6F8" }, "100": { "$value": "#E4E9EB" }, "200": { "$value": "#C4D4DB" }, "300": { "$value": "#A4B4BB" }, "400": { "$value": "#808F96" }, "500": { "$value": "#606E75" }, "600": { "$value": "#47555B" }, "700": { "$value": "#39464C" }, "800": { "$value": "#28353B" }, "850": { "$value": "#1C292E" }, "900": { "$value": "#131F24" }, "950": { "$value": "#0A161B" } }
+  }
+}

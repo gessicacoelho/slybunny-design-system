@@ -1,0 +1,31 @@
+{
+  "$description": "Cores semânticas, tema escuro (padrão). Cada valor aponta para um primitivo.",
+  "color": {
+    "$type": "color",
+    "bg": { "canvas": { "$value": "{color.neutral.900}" }, "surface": { "$value": "{color.neutral.850}" }, "surface-raised": { "$value": "{color.neutral.800}" }, "surface-sunken": { "$value": "{color.neutral.950}" } },
+    "text": {
+      "primary": { "$value": "{color.neutral.50}" }, "secondary": { "$value": "{color.neutral.300}" }, "tertiary": { "$value": "{color.neutral.400}" }, "disabled": { "$value": "{color.neutral.500}" },
+      "on-brand": { "$value": "{color.neutral.950}", "$description": "Decisão 0004: texto escuro sobre o rosa." },
+      "on-brand-subtle": { "$value": "{color.pink.200}" },
+      "on-danger": { "$value": "{color.neutral.950}", "$description": "Decisão 0005." },
+      "on-success": { "$value": "{color.neutral.950}" }, "on-success-subtle": { "$value": "{color.mint.200}" }, "on-danger-subtle": { "$value": "{color.coral.200}" },
+      "link": { "$value": "{color.pink.400}" }
+    },
+    "border": { "default": { "$value": "{color.neutral.700}" }, "strong": { "$value": "{color.neutral.600}" }, "strong-pressed": { "$value": "{color.neutral.600}" }, "focus": { "$value": "{color.pink.300}" } },
+    "brand": { "primary": { "$value": "{color.pink.400}" }, "primary-pressed": { "$value": "{color.pink.600}" }, "primary-subtle": { "$value": "{color.pink.900}" }, "primary-subtle-pressed": { "$value": "{color.pink.800}" } },
+    "feedback": { "success": { "$value": "{color.mint.400}" }, "success-subtle": { "$value": "{color.mint.900}" }, "danger": { "$value": "{color.coral.400}" }, "danger-pressed": { "$value": "{color.coral.600}" }, "danger-subtle": { "$value": "{color.coral.900}" }, "warning": { "$value": "{color.honey.400}" }, "info": { "$value": "{color.sky.400}" } },
+    "game": {
+      "$description": "Decisão 0006: cada cor tem um significado fixo.",
+      "streak": { "$value": "{color.tangerine.400}" }, "gem": { "$value": "{color.sky.400}" }, "xp": { "$value": "{color.mint.400}" }, "trophy": { "$value": "{color.honey.400}" }
+    },
+    "category": {
+      "$description": "Decisões 0007 e 0008.",
+      "pink": { "fg": { "$value": "{color.pink.300}" }, "bg": { "$value": "{color.pink.900}" } },
+      "tangerine": { "fg": { "$value": "{color.tangerine.300}" }, "bg": { "$value": "{color.tangerine.900}" } },
+      "lilac": { "fg": { "$value": "{color.lilac.300}" }, "bg": { "$value": "{color.lilac.900}" } },
+      "sky": { "fg": { "$value": "{color.sky.300}" }, "bg": { "$value": "{color.sky.900}" } },
+      "mint": { "fg": { "$value": "{color.mint.300}" }, "bg": { "$value": "{color.mint.900}" } }
+    },
+    "control": { "knob": { "$value": "{color.neutral.0}" }, "knob-off": { "$value": "{color.neutral.300}" } }
+  }
+}

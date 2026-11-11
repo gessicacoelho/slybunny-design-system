@@ -1,0 +1,26 @@
+{
+  "$description": "Cores semânticas, tema claro. Só os tokens que mudam em relação ao escuro.",
+  "color": {
+    "$type": "color",
+    "bg": { "canvas": { "$value": "{color.neutral.50}" }, "surface": { "$value": "{color.neutral.0}" }, "surface-raised": { "$value": "{color.neutral.0}" }, "surface-sunken": { "$value": "{color.neutral.100}" } },
+    "text": {
+      "primary": { "$value": "{color.neutral.900}" }, "secondary": { "$value": "{color.neutral.600}" }, "tertiary": { "$value": "{color.neutral.500}" }, "disabled": { "$value": "{color.neutral.300}" },
+      "on-brand-subtle": { "$value": "{color.pink.700}" },
+      "on-danger": { "$value": "{color.neutral.0}", "$description": "Decisão 0005: branco no claro." },
+      "on-success": { "$value": "{color.neutral.0}" }, "on-success-subtle": { "$value": "{color.mint.700}" }, "on-danger-subtle": { "$value": "{color.coral.700}" },
+      "link": { "$value": "{color.pink.700}" }
+    },
+    "border": { "default": { "$value": "{color.neutral.200}" }, "strong": { "$value": "{color.neutral.400}" }, "strong-pressed": { "$value": "{color.neutral.400}" }, "focus": { "$value": "{color.pink.600}" } },
+    "brand": { "primary-subtle": { "$value": "{color.pink.50}" }, "primary-subtle-pressed": { "$value": "{color.pink.100}" } },
+    "feedback": { "success": { "$value": "{color.mint.700}" }, "success-subtle": { "$value": "{color.mint.50}" }, "danger": { "$value": "{color.coral.700}" }, "danger-pressed": { "$value": "{color.coral.800}" }, "danger-subtle": { "$value": "{color.coral.50}" }, "warning": { "$value": "{color.honey.700}" }, "info": { "$value": "{color.sky.700}" } },
+    "game": { "streak": { "$value": "{color.tangerine.700}" }, "gem": { "$value": "{color.sky.700}" }, "xp": { "$value": "{color.mint.700}" }, "trophy": { "$value": "{color.honey.700}" } },
+    "category": {
+      "pink": { "fg": { "$value": "{color.pink.700}" }, "bg": { "$value": "{color.pink.50}" } },
+      "tangerine": { "fg": { "$value": "{color.tangerine.700}" }, "bg": { "$value": "{color.tangerine.50}" } },
+      "lilac": { "fg": { "$value": "{color.lilac.700}" }, "bg": { "$value": "{color.lilac.50}" } },
+      "sky": { "fg": { "$value": "{color.sky.700}" }, "bg": { "$value": "{color.sky.50}" } },
+      "mint": { "fg": { "$value": "{color.mint.700}" }, "bg": { "$value": "{color.mint.50}" } }
+    },
+    "control": { "knob-off": { "$value": "{color.neutral.400}" } }
+  }
+}

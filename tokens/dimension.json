@@ -1,0 +1,11 @@
+{
+  "$description": "Espaço, raio, borda, elevação, ícone, toque e movimento (decisões 0010, 0011, 0012).",
+  "space": { "$type": "dimension", "0": { "$value": "0px" }, "2": { "$value": "2px" }, "4": { "$value": "4px" }, "8": { "$value": "8px" }, "12": { "$value": "12px" }, "16": { "$value": "16px" }, "20": { "$value": "20px" }, "24": { "$value": "24px" }, "32": { "$value": "32px" }, "48": { "$value": "48px" } },
+  "radius": { "$type": "dimension", "sm": { "$value": "8px" }, "md": { "$value": "12px" }, "lg": { "$value": "16px" }, "xl": { "$value": "24px" }, "full": { "$value": "999px" } },
+  "border-width": { "$type": "dimension", "default": { "$value": "2px" }, "strong": { "$value": "3px" } },
+  "elevation": { "$type": "dimension", "press": { "$value": "4px" }, "press-sm": { "$value": "2px" } },
+  "icon": { "$type": "dimension", "sm": { "$value": "16px" }, "md": { "$value": "24px" }, "lg": { "$value": "32px" } },
+  "touch": { "$type": "dimension", "min": { "$value": "44px" } },
+  "motion": { "$type": "duration", "fast": { "$value": "120ms" }, "base": { "$value": "200ms" }, "slow": { "$value": "400ms" }, "celebrate": { "$value": "800ms" } },
+  "ease": { "$type": "cubicBezier", "out": { "$value": [0.2, 0.8, 0.2, 1] }, "bounce": { "$value": [0.34, 1.56, 0.64, 1] } }
+}

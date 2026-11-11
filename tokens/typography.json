@@ -1,0 +1,18 @@
+{
+  "$description": "Os 11 estilos de texto em Nunito (decisão 0009).",
+  "font-family": { "$type": "fontFamily", "base": { "$value": ["Nunito", "system-ui", "sans-serif"] } },
+  "text": {
+    "$type": "typography",
+    "display":   { "$value": { "fontFamily": "{font-family.base}", "fontSize": "28px", "lineHeight": "34px", "fontWeight": 900 } },
+    "title-lg":  { "$value": { "fontFamily": "{font-family.base}", "fontSize": "22px", "lineHeight": "28px", "fontWeight": 800 } },
+    "title-md":  { "$value": { "fontFamily": "{font-family.base}", "fontSize": "18px", "lineHeight": "24px", "fontWeight": 800 } },
+    "title-sm":  { "$value": { "fontFamily": "{font-family.base}", "fontSize": "16px", "lineHeight": "22px", "fontWeight": 700 } },
+    "body":      { "$value": { "fontFamily": "{font-family.base}", "fontSize": "15px", "lineHeight": "22px", "fontWeight": 600 } },
+    "body-sm":   { "$value": { "fontFamily": "{font-family.base}", "fontSize": "13px", "lineHeight": "18px", "fontWeight": 600 } },
+    "label":     { "$value": { "fontFamily": "{font-family.base}", "fontSize": "14px", "lineHeight": "18px", "fontWeight": 800, "letterSpacing": "0.04em", "textTransform": "uppercase" } },
+    "label-sm":  { "$value": { "fontFamily": "{font-family.base}", "fontSize": "13px", "lineHeight": "18px", "fontWeight": 800 } },
+    "overline":  { "$value": { "fontFamily": "{font-family.base}", "fontSize": "11px", "lineHeight": "14px", "fontWeight": 800, "letterSpacing": "0.08em", "textTransform": "uppercase" } },
+    "caption":   { "$value": { "fontFamily": "{font-family.base}", "fontSize": "12px", "lineHeight": "16px", "fontWeight": 700 } },
+    "numeric":   { "$value": { "fontFamily": "{font-family.base}", "fontSize": "20px", "lineHeight": "24px", "fontWeight": 900, "fontVariantNumeric": "tabular-nums" } }
+  }
+}
