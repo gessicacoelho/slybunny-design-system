@@ -1,6 +1,6 @@
 # 0024 · TopBar com 4 itens e sem logo
 
-**Data:** 11 nov 2026 · **Status:** Aceita
+**Data:** 11 nov 2026 · **Status:** Substituída por 0034
 
 **Contexto.** A TopBar tinha 5 itens sem rótulo, e o coelho verde repetia o avatar e a aba Perfil.
 

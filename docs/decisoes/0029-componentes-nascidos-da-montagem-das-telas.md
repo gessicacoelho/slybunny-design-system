@@ -1,6 +1,6 @@
 # 0029 · Componentes nascidos da montagem das telas
 
-**Data:** 11 nov 2026 · **Status:** Aceita
+**Data:** 11 nov 2026 · **Status:** Aceita (estado vazio alterado por 0035)
 
 **Contexto.** Montar as cinco abas só com componentes (página Padrões) revelou sete lacunas.
 

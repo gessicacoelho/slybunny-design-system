@@ -2,6 +2,18 @@
 
 Todas as mudanças do SlyBunny DS. A versão mais nova fica no topo. O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/).
 
+## [Não lançado]
+
+### Decisões
+- 0034: a TopBar mantém 5 itens, com o coelho verde (substitui 0024).
+- 0035: o recadinho vazio mostra um texto de convite.
+- 0036 (em aberto): as 253 cores do app que ainda não têm token.
+- 0037 (em aberto): a Missão Relâmpago ainda não tem componente.
+
+### A fazer no Figma
+- Atualizar a página TopBar para 5 itens.
+- Acrescentar o estado vazio ao NoteCard.
+
 ## [0.12.0] · 11 nov 2026
 
 Primeira versão no GitHub. Reúne tudo o que foi feito no Figma de 9 a 11 de novembro.

@@ -31,7 +31,7 @@ Regra do registro: decisão nova ganha número novo. Se uma decisão mudar, a an
 | 0021 | [Checkbox parcial com trilha e arco](0021-checkbox-parcial-com-trilha-e-arco.md) | Aceita |
 | 0022 | [MissionCard: o card abre, só o checkbox marca](0022-missioncard-o-card-abre-so-o-checkbox-marca.md) | Aceita |
 | 0023 | [StatCard estático](0023-statcard-estatico.md) | Aceita |
-| 0024 | [TopBar com 4 itens e sem logo](0024-topbar-com-4-itens-e-sem-logo.md) | Aceita |
+| 0024 | [TopBar com 4 itens e sem logo](0024-topbar-com-4-itens-e-sem-logo.md) | Substituída por 0034 |
 | 0025 | [BottomNav: um ícone por aba e pílula rosa-suave no ativo](0025-bottomnav-um-icone-por-aba-e-pilula-rosa-suave-no-ativo.md) | Aceita |
 | 0026 | [Dialog só para o irreversível; Toast com "Desfazer" para o resto](0026-dialog-so-para-o-irreversivel-toast-com-desfazer-para-o-rest.md) | Aceita |
 | 0027 | [Skeleton usa bg/surface-sunken](0027-skeleton-usa-bg-surface-sunken.md) | Aceita |
@@ -41,6 +41,10 @@ Regra do registro: decisão nova ganha número novo. Se uma decisão mudar, a an
 | 0031 | [Fundo escurecido de Dialog e BottomSheet sem token](0031-fundo-escurecido-de-dialog-e-bottomsheet-sem-token.md) | Em aberto |
 | 0032 | [Logo: bicolor ou rosa + neutro](0032-logo-bicolor-ou-rosa-neutro.md) | Em aberto |
 | 0033 | [Nome das cores: mint, sky… ou green, blue…](0033-nome-das-cores-mint-sky-ou-green-blue.md) | Em aberto |
+| 0034 | [TopBar mantém 5 itens, com o coelho verde](0034-topbar-mantem-5-itens-com-o-coelho-verde.md) | Aceita |
+| 0035 | [Recadinho vazio com texto de convite](0035-recadinho-vazio-com-texto-de-convite.md) | Aceita |
+| 0036 | [Cores do app ainda sem token](0036-cores-do-app-ainda-sem-token.md) | Em aberto |
+| 0037 | [Missão Relâmpago sem componente](0037-missao-relampago-sem-componente.md) | Em aberto |
 
 ## Como registrar uma decisão nova
 
