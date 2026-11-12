@@ -2,6 +2,24 @@
 
 Todas as mudanças do SlyBunny DS. A versão mais nova fica no topo. O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/).
 
+## [0.18.0] · 12 nov 2026
+
+Um só padrão de botão no app.
+
+### Decisões
+- 0042: todo botão é Button ou IconButton. Rótulo em maiúsculas no estilo `label`, cor só pelas variantes, ícone sempre `icon/ui`, sem caracteres nem ícones ilustrados.
+
+### Adicionado (Figma)
+- Ícones `icon/ui/play`, `pause`, `music` e `rotate-ccw`, agora são 37.
+- Página Button: quadro "Botões no app · Pomodoro e Oração", com as duas telas no padrão.
+- Página HeroCard: quadro "Toca · antes e depois".
+
+### Adicionado (app)
+- `app/icones-ui/`: SVGs de play, pause, music, rotate-ccw e check com `currentColor`, para usar dentro dos botões.
+
+### Corrigido (Figma)
+- O checklist da página Comece aqui falava em "Pronto" e "Rascunho". Agora usa os status do sistema: "Em revisão" e "Estável".
+
 ## [0.17.0] · 12 nov 2026
 
 O HeroCard passa para Estável, e o app ganha um pacote de correções pronto para colar.

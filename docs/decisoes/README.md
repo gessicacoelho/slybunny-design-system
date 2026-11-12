@@ -49,6 +49,7 @@ Regra do registro: decisão nova ganha número novo. Se uma decisão mudar, a an
 | 0039 | [O quarto da Toca é ilustração; o que fica em cima dele segue o sistema](0039-o-quarto-da-toca-e-ilustracao-o-que-fica-em-cima-segue-o-sistema.md) | Aceita |
 | 0040 | [A etiqueta "NOVA" é um Badge no canto da medalha](0040-etiqueta-nova-e-um-badge-no-canto-da-medalha.md) | Aceita |
 | 0041 | [overlay/on-art para painéis sobre a arte do herói](0041-overlay-on-art-para-paineis-sobre-a-arte-do-heroi.md) | Aceita |
+| 0042 | [Botões têm um só padrão de rótulo, cor e ícone](0042-botoes-tem-um-so-padrao-de-rotulo-cor-e-icone.md) | Aceita |
 
 ## Como registrar uma decisão nova
 

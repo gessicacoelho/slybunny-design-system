@@ -1,6 +1,6 @@
 {
   "name": "slybunny-design-system",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "description": "Design system do SlyBunny: tokens, decisões e documentação.",
   "type": "module",
   "scripts": {
