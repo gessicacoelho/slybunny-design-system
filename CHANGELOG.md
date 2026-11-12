@@ -2,6 +2,25 @@
 
 Todas as mudanças do SlyBunny DS. A versão mais nova fica no topo. O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/).
 
+## [0.17.0] · 12 nov 2026
+
+O HeroCard passa para Estável, e o app ganha um pacote de correções pronto para colar.
+
+### Adicionado (Figma)
+- Ícone `icon/ui/chevron-up`.
+- HeroCard com a propriedade `Collapse`: botão tonal com seta para recolher a arte. Só a toca usa.
+- Na página HeroCard, o exemplo "Toca no app", montado com o conteúdo real e com a tabela do app para os tokens.
+
+### Adicionado (app)
+- `app/correcoes-0.16.1/`: CSS e JS com o Switch acessível, o fundo escurecido com `overlay/scrim` e o raio 24 na folha e no Dialog. Testado no app publicado.
+
+### Status
+- HeroCard passa para Estável. A variante `Theme=room` já era o herói da Toca, com o painel claro, porque o HeroCard fica sempre no modo Light. Faltava só o botão de recolher.
+- Ficam 27 estáveis e 6 em revisão: BottomSheet, Celebration, Dialog, EmptyState, Skeleton e Toast.
+
+### Para o app
+- O painel da Toca usa o creme e o marrom certos, mas com valores soltos: #FFF4E4, #E8C9A0, #C47A1A, raio 20. A troca pelos tokens do modo Light está na página HeroCard do Figma. O painel fica dentro de um shadow DOM, então a mudança tem que ser feita no código dele.
+
 ## [0.16.1] · 12 nov 2026
 
 Conferência no app dos componentes que ainda não tinham sido vistos. Nenhum token mudou.
