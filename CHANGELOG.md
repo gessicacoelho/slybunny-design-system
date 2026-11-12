@@ -2,6 +2,23 @@
 
 Todas as mudanças do SlyBunny DS. A versão mais nova fica no topo. O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/).
 
+## [0.16.1] · 12 nov 2026
+
+Conferência no app dos componentes que ainda não tinham sido vistos. Nenhum token mudou.
+
+### Status
+- Switch, SettingsRow e Avatar passam para Estável. Foram vistos em Perfil > Configurações e no seletor "Trocar avatar", e batem com o Figma: Switch 48×28 com bolinha de 20, trilha `brand/primary`, bolinha `control/knob`; SettingsRow em `bg/surface` com raio 16 e borda `border/default`; Avatar redondo de 56 com a escolha marcada em rosa.
+- Ficam 26 estáveis e 7 em revisão: HeroCard, BottomSheet, Celebration, Dialog, EmptyState, Skeleton e Toast.
+- Toast, BottomSheet e Dialog existem no código do app (`.sb-cad-toast`, `.sb-cx-dtoast`, `.sb-cad-sheet`, `[role=dialog]`), mas só aparecem depois de salvar, apagar ou mudar algo. Não foram abertos para não mexer nos dados da conta.
+- O Skeleton não existe no app: a tela carrega direto.
+
+### Para o app
+- Switch: falta `role="switch"` e `aria-checked`, então o leitor de tela não sabe se está ligado. Falta o check na bolinha quando ligado (0013).
+- Fundo escurecido (`.modal-overlay`): preto a 50%. Trocar por `var(--color-overlay-scrim)` (0031).
+- Folha (`.sb-cad-sheet`) e Dialog: raio 28. Trocar por `var(--radius-xl)` (24).
+- Fundo do círculo do avatar (`.sb-pastel`): #3D4349, fora dos tokens. Usar `bg/surface-raised`.
+- O contador de diamantes mostra 0 por um instante antes do valor certo. Mostrar um Skeleton no lugar do número até carregar.
+
 ## [0.16.0] · 12 nov 2026
 
 Figma mais didático e a biblioteca de ícones do app.
