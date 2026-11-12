@@ -17,6 +17,13 @@ Um só padrão de botão no app.
 ### Adicionado (app)
 - `app/icones-ui/`: SVGs de play, pause, music, rotate-ccw e check com `currentColor`, para usar dentro dos botões.
 
+### Mudou (Figma)
+- MissionCard: 16px (`space/16`) entre o ícone, o texto e as ações, no lugar de 12. O Timer e o Checkbox ficam encostados num frame "Ações". Antes, o ícone e o texto ficavam colados e o relógio e o círculo ficavam a uns 30px um do outro, porque as áreas de toque de 44px somavam respiro. Agora são 18px entre os dois desenhos. Vale para os 5 estados, e o quadro "Como foi construído" foi refeito.
+- Página MissionCard: quadro "MissionCard · espaçamento antes e depois".
+
+### Documentação
+- Doc de ajustes: seções novas sobre os balões de fala (um só, o do passaporte, que nunca cobre texto) e sobre o espaçamento do card de missão, com os itens no checklist.
+
 ### Corrigido (Figma)
 - O checklist da página Comece aqui falava em "Pronto" e "Rascunho". Agora usa os status do sistema: "Em revisão" e "Estável".
 
