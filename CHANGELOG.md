@@ -21,6 +21,11 @@ Revisão do app publicado contra o sistema. 20 componentes passam para Estável.
 - 0040: a etiqueta "NOVA" é um Badge no canto da medalha.
 - 0041: `overlay/on-art` para os painéis sobre a arte dos heróis (altera 0031).
 
+### Documentação (zeroheight)
+- Abertura da categoria Componentes com a tabela de status dos 33.
+- Aberturas de Comece aqui e Linguagem visual e a capa: o texto do modelo em inglês saiu e entrou o conteúdo do SlyBunny. O guia passa a se chamar "SlyBunny Design System".
+- Página Decisões com 0038 a 0041.
+
 ### Figma
 - Status "Estável" nos 20 componentes, nas páginas e no índice.
 - Variáveis `game/tier-bronze`, `game/tier-silver` e `overlay/on-art`.
