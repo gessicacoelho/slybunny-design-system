@@ -2,6 +2,18 @@
 
 Todas as mudanças do SlyBunny DS. A versão mais nova fica no topo. O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/).
 
+## [0.13.1] · 12 nov 2026
+
+Documentação mais visual. Nenhum token, componente ou decisão mudou.
+
+### Documentação (zeroheight)
+- As páginas de fundações e os 33 componentes mostram imagens do Figma. Cada componente tem duas: anatomia e variantes.
+- Nova página de abertura da categoria Princípios: os 9 princípios e as telas da página Padrões, com o que observar em cada uma.
+- Introduções revisadas: sobras do modelo em inglês foram removidas.
+
+### Figma
+- Padrões: a `Toca · comemoração` passou para dentro de um frame com o mesmo nome, igual aos outros estados da Toca. Assim o zeroheight a reconhece como tela.
+
 ## [0.13.0] · 11 nov 2026
 
 Decisões tomadas ao aplicar o sistema no app publicado.

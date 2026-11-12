@@ -7,6 +7,7 @@ Este repositório é a fonte de verdade em código: tokens, decisões e históri
 | Onde | O quê |
 | --- | --- |
 | [Figma](https://www.figma.com/design/ojir1YFuLHGlRpyfp4G6er) | Componentes, telas montadas (página Padrões) e documentação visual |
+| [zeroheight](https://contatogessicacoelho.zeroheight.com/styleguide/s/147916) | Documentação de uso: princípios, fundações e componentes, com imagens do Figma |
 | `tokens/` | Cores, espaços, raios, tipografia e movimento em JSON (formato W3C) |
 | `build/tokens.css` | As variáveis CSS geradas a partir dos tokens, prontas para o app |
 | `docs/decisoes/` | O registro de decisões: o porquê de cada escolha |
