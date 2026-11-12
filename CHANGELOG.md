@@ -2,6 +2,24 @@
 
 Todas as mudanças do SlyBunny DS. A versão mais nova fica no topo. O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/).
 
+## [0.14.0] · 12 nov 2026
+
+As três decisões que estavam em aberto foram fechadas. Nenhuma decisão fica em aberto.
+
+### Adicionado
+- Token `overlay/scrim` (`--color-overlay-scrim`): neutral/950 a 70%, para o fundo escurecido de Dialog e BottomSheet.
+
+### Decisões
+- 0031: o fundo escurecido usa `overlay/scrim`. O `overlay/on-art` fica para quando houver um uso real.
+- 0032: o logo continua verde e rosa.
+- 0033: as rampas mantêm os nomes mint, sky, tangerine e os outros.
+
+### Figma
+- Variável `overlay/scrim` na coleção Color, ligada às camadas Scrim das páginas Dialog e BottomSheet. O visual não muda.
+
+### Para o app
+- Trocar o valor solto do fundo escurecido por `var(--color-overlay-scrim)`.
+
 ## [0.13.1] · 12 nov 2026
 
 Documentação mais visual. Nenhum token, componente ou decisão mudou.

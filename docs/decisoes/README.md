@@ -38,9 +38,9 @@ Regra do registro: decisão nova ganha número novo. Se uma decisão mudar, a an
 | 0028 | [Não repetir informação no hero](0028-nao-repetir-informacao-no-hero.md) | Aceita |
 | 0029 | [Componentes nascidos da montagem das telas](0029-componentes-nascidos-da-montagem-das-telas.md) | Aceita |
 | 0030 | [Documentação em 8 seções por componente](0030-documentacao-em-8-secoes-por-componente.md) | Aceita |
-| 0031 | [Fundo escurecido de Dialog e BottomSheet sem token](0031-fundo-escurecido-de-dialog-e-bottomsheet-sem-token.md) | Em aberto |
-| 0032 | [Logo: bicolor ou rosa + neutro](0032-logo-bicolor-ou-rosa-neutro.md) | Em aberto |
-| 0033 | [Nome das cores: mint, sky… ou green, blue…](0033-nome-das-cores-mint-sky-ou-green-blue.md) | Em aberto |
+| 0031 | [Fundo escurecido de Dialog e BottomSheet ganha o token overlay/scrim](0031-fundo-escurecido-de-dialog-e-bottomsheet-sem-token.md) | Aceita |
+| 0032 | [O logo continua bicolor, verde e rosa](0032-logo-bicolor-ou-rosa-neutro.md) | Aceita |
+| 0033 | [As rampas de cor mantêm os nomes mint, sky e os outros](0033-nome-das-cores-mint-sky-ou-green-blue.md) | Aceita |
 | 0034 | [TopBar mantém 5 itens, com o coelho verde](0034-topbar-mantem-5-itens-com-o-coelho-verde.md) | Aceita |
 | 0035 | [Recadinho vazio com texto de convite](0035-recadinho-vazio-com-texto-de-convite.md) | Aceita |
 | 0036 | [Cores do app sem token: como trocar](0036-cores-do-app-ainda-sem-token.md) | Aceita |

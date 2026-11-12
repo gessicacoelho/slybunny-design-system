@@ -26,6 +26,7 @@
       "sky": { "fg": { "$value": "{color.sky.300}" }, "bg": { "$value": "{color.sky.900}" } },
       "mint": { "fg": { "$value": "{color.mint.300}" }, "bg": { "$value": "{color.mint.900}" } }
     },
-    "control": { "knob": { "$value": "{color.neutral.0}" }, "knob-off": { "$value": "{color.neutral.300}" } }
+    "control": { "knob": { "$value": "{color.neutral.0}" }, "knob-off": { "$value": "{color.neutral.300}" } },
+    "overlay": { "scrim": { "$value": "#0A161BB3", "$description": "Fundo escurecido atrás de Dialog e BottomSheet: neutral/950 a 70%, igual nos dois temas. Decisão 0031." } }
   }
 }
