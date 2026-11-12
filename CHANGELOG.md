@@ -11,6 +11,17 @@ Figma mais didático e a biblioteca de ícones do app.
 - Quadro "Como foi construído" nas 33 páginas de componentes, no formato do Guidelines do Align UI: estrutura em auto layout com os tokens, camadas, propriedades e passo a passo de uso. É gerado a partir do próprio componente.
 - 104 ícones do app (`icon/app/`), tirados do app publicado como vetor e organizados pela aba onde aparecem, na página Utilitários.
 
+- Página Padrões: Caderno de Bordo com as 3 variações (Metas 2027, Sonhos, Por Onde Andei).
+- TrophyItem com `Tier` (none, bronze, silver, gold, só em past) e `Nova` (ponto de Badge), aplicando 0038 e 0040.
+- PassportCard com a propriedade `Fala`; SpeechBubble com a regra de posição.
+- Página Changelog do Figma com as versões 0.13.1 a 0.16.
+
+### Status
+- TrophyShelf, PassportCard e SpeechBubble passam para Estável: 23 estáveis, 10 em revisão.
+
+### Documentação (zeroheight)
+- Página Ícones com os ícones do app; tabela de status atualizada.
+
 ### Corrigido (Figma)
 - Os 32 ícones de interface (`icon/ui/`) não apareciam no fundo claro da página Utilitários. Agora ficam num quadro escuro, com o nome de cada um.
 
