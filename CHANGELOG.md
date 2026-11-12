@@ -9,6 +9,8 @@ Documentação mais visual. Nenhum token, componente ou decisão mudou.
 ### Documentação (zeroheight)
 - As páginas de fundações e os 33 componentes mostram imagens do Figma. Cada componente tem duas: anatomia e variantes.
 - Nova página de abertura da categoria Princípios: os 9 princípios e as telas da página Padrões, com o que observar em cada uma.
+- Nova categoria Padrões: abertura com as telas do app e as páginas Estados da tela, Navegação e Confirmar e desfazer.
+- Nova categoria Recursos: links para o Figma, o repositório, os tokens, a tabela de troca de cores, o registro de decisões e o changelog.
 - Introduções revisadas: sobras do modelo em inglês foram removidas.
 
 ### Figma
