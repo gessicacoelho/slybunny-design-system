@@ -16,7 +16,8 @@ Conferência no app dos componentes que ainda não tinham sido vistos. Nenhum to
 - Switch: falta `role="switch"` e `aria-checked`, então o leitor de tela não sabe se está ligado. Falta o check na bolinha quando ligado (0013).
 - Fundo escurecido (`.modal-overlay`): preto a 50%. Trocar por `var(--color-overlay-scrim)` (0031).
 - Folha (`.sb-cad-sheet`) e Dialog: raio 28. Trocar por `var(--radius-xl)` (24).
-- Fundo do círculo do avatar (`.sb-pastel`): #3D4349, fora dos tokens. Usar `bg/surface-raised`.
+- Pacote pronto em `app/correcoes-0.16.1/` (CSS e JS) com as três primeiras correções, testado no app publicado. O `LEIA-ME.md` explica como instalar.
+- O fundo do círculo do avatar (`.sb-pastel`) é um tom da cor de cada avatar, misturado de propósito. Fica para depois.
 - O contador de diamantes mostra 0 por um instante antes do valor certo. Mostrar um Skeleton no lugar do número até carregar.
 
 ## [0.16.0] · 12 nov 2026
