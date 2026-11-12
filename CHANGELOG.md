@@ -2,6 +2,18 @@
 
 Todas as mudanças do SlyBunny DS. A versão mais nova fica no topo. O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/).
 
+## [0.16.0] · 12 nov 2026
+
+Figma mais didático e a biblioteca de ícones do app.
+
+### Adicionado (Figma)
+- Quadro "Para entender" em todas as páginas: o que é, por que é importante e como funciona no SlyBunny.
+- Quadro "Como foi construído" nas 33 páginas de componentes, no formato do Guidelines do Align UI: estrutura em auto layout com os tokens, camadas, propriedades e passo a passo de uso. É gerado a partir do próprio componente.
+- 104 ícones do app (`icon/app/`), tirados do app publicado como vetor e organizados pela aba onde aparecem, na página Utilitários.
+
+### Corrigido (Figma)
+- Os 32 ícones de interface (`icon/ui/`) não apareciam no fundo claro da página Utilitários. Agora ficam num quadro escuro, com o nome de cada um.
+
 ## [0.15.0] · 12 nov 2026
 
 Revisão do app publicado contra o sistema. 20 componentes passam para Estável.
