@@ -2,6 +2,29 @@
 
 Todas as mudanças do SlyBunny DS. A versão mais nova fica no topo. O formato segue o [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/).
 
+## [0.15.0] · 12 nov 2026
+
+Revisão do app publicado contra o sistema. 20 componentes passam para Estável.
+
+### Status dos componentes
+- **Estável:** Accordion, Badge, BottomNav, Button, Card, Carousel, Checkbox, Chip, GoalCard, IconButton, Input, MissionCard, NoteCard, ProgressBar, RankingRow, SectionHeader, StatCard, Stepper, Tag, TopBar.
+- **Em revisão por lacuna no sistema:** HeroCard, PassportCard, SpeechBubble, TrophyShelf.
+- **Em revisão por não terem sido vistos no app:** Avatar, BottomSheet, Celebration, Dialog, EmptyState, SettingsRow, Skeleton, Switch, Toast.
+
+### Adicionado
+- `game/tier-bronze` e `game/tier-silver` (decisão 0038).
+- `overlay/on-art`: neutral/950 a 24% (decisão 0041).
+
+### Decisões
+- 0038: cores de nível bronze e prata; o ouro usa `game/trophy`.
+- 0039: o quarto da Toca é ilustração; textos e botões em cima dele seguem o sistema.
+- 0040: a etiqueta "NOVA" é um Badge no canto da medalha.
+- 0041: `overlay/on-art` para os painéis sobre a arte dos heróis (altera 0031).
+
+### Figma
+- Status "Estável" nos 20 componentes, nas páginas e no índice.
+- Variáveis `game/tier-bronze`, `game/tier-silver` e `overlay/on-art`.
+
 ## [0.14.0] · 12 nov 2026
 
 As três decisões que estavam em aberto foram fechadas. Nenhuma decisão fica em aberto.

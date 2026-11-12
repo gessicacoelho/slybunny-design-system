@@ -1,6 +1,6 @@
 # 0031 · Fundo escurecido de Dialog e BottomSheet ganha o token overlay/scrim
 
-**Data:** 11 nov 2026 (aberta) · 12 nov 2026 (aceita) · **Status:** Aceita
+**Data:** 11 nov 2026 (aberta) · 12 nov 2026 (aceita) · **Status:** Aceita (`overlay/on-art` criado depois pela 0041)
 
 **Contexto.** O fundo escurecido atrás do Dialog e do BottomSheet usava neutral/950 a 70%: um primitivo com opacidade aplicado direto, fora da regra 0001. A proposta original também previa `overlay/on-art`, para uma trilha clara sobre a arte do HeroCard.
 

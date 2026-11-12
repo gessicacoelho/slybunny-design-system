@@ -38,13 +38,17 @@ Regra do registro: decisão nova ganha número novo. Se uma decisão mudar, a an
 | 0028 | [Não repetir informação no hero](0028-nao-repetir-informacao-no-hero.md) | Aceita |
 | 0029 | [Componentes nascidos da montagem das telas](0029-componentes-nascidos-da-montagem-das-telas.md) | Aceita |
 | 0030 | [Documentação em 8 seções por componente](0030-documentacao-em-8-secoes-por-componente.md) | Aceita |
-| 0031 | [Fundo escurecido de Dialog e BottomSheet ganha o token overlay/scrim](0031-fundo-escurecido-de-dialog-e-bottomsheet-sem-token.md) | Aceita |
+| 0031 | [Fundo escurecido de Dialog e BottomSheet ganha o token overlay/scrim](0031-fundo-escurecido-de-dialog-e-bottomsheet-sem-token.md) | Aceita (alterada por 0041) |
 | 0032 | [O logo continua bicolor, verde e rosa](0032-logo-bicolor-ou-rosa-neutro.md) | Aceita |
 | 0033 | [As rampas de cor mantêm os nomes mint, sky e os outros](0033-nome-das-cores-mint-sky-ou-green-blue.md) | Aceita |
 | 0034 | [TopBar mantém 5 itens, com o coelho verde](0034-topbar-mantem-5-itens-com-o-coelho-verde.md) | Aceita |
 | 0035 | [Recadinho vazio com texto de convite](0035-recadinho-vazio-com-texto-de-convite.md) | Aceita |
 | 0036 | [Cores do app sem token: como trocar](0036-cores-do-app-ainda-sem-token.md) | Aceita |
 | 0037 | [Missão Relâmpago é uma variante do MissionCard](0037-missao-relampago-sem-componente.md) | Aceita |
+| 0038 | [Cores de nível: bronze, prata e ouro](0038-cores-de-nivel-bronze-prata-e-ouro.md) | Aceita |
+| 0039 | [O quarto da Toca é ilustração; o que fica em cima dele segue o sistema](0039-o-quarto-da-toca-e-ilustracao-o-que-fica-em-cima-segue-o-sistema.md) | Aceita |
+| 0040 | [A etiqueta "NOVA" é um Badge no canto da medalha](0040-etiqueta-nova-e-um-badge-no-canto-da-medalha.md) | Aceita |
+| 0041 | [overlay/on-art para painéis sobre a arte do herói](0041-overlay-on-art-para-paineis-sobre-a-arte-do-heroi.md) | Aceita |
 
 ## Como registrar uma decisão nova
 

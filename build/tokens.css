@@ -123,6 +123,8 @@
   --color-game-gem: var(--color-sky-400);
   --color-game-xp: var(--color-mint-400);
   --color-game-trophy: var(--color-honey-400);
+  --color-game-tier-bronze: #D98C4A;
+  --color-game-tier-silver: #AEB8C8;
   --color-category-pink-fg: var(--color-pink-300);
   --color-category-pink-bg: var(--color-pink-900);
   --color-category-tangerine-fg: var(--color-tangerine-300);
@@ -136,6 +138,7 @@
   --color-control-knob: var(--color-neutral-0);
   --color-control-knob-off: var(--color-neutral-300);
   --color-overlay-scrim: #0A161BB3;
+  --color-overlay-on-art: #0A161B3D;
   --space-0: 0px;
   --space-2: 2px;
   --space-4: 4px;

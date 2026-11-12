@@ -16,7 +16,9 @@
     "feedback": { "success": { "$value": "{color.mint.400}" }, "success-subtle": { "$value": "{color.mint.900}" }, "danger": { "$value": "{color.coral.400}" }, "danger-pressed": { "$value": "{color.coral.600}" }, "danger-subtle": { "$value": "{color.coral.900}" }, "warning": { "$value": "{color.honey.400}" }, "info": { "$value": "{color.sky.400}" } },
     "game": {
       "$description": "Decisão 0006: cada cor tem um significado fixo.",
-      "streak": { "$value": "{color.tangerine.400}" }, "gem": { "$value": "{color.sky.400}" }, "xp": { "$value": "{color.mint.400}" }, "trophy": { "$value": "{color.honey.400}" }
+      "streak": { "$value": "{color.tangerine.400}" }, "gem": { "$value": "{color.sky.400}" }, "xp": { "$value": "{color.mint.400}" }, "trophy": { "$value": "{color.honey.400}" },
+      "tier-bronze": { "$value": "#D98C4A", "$description": "Nível bronze em medalhas e marcos da Liga, igual nos dois temas. Decisão 0038." },
+      "tier-silver": { "$value": "#AEB8C8", "$description": "Nível prata em medalhas e marcos da Liga, igual nos dois temas. O ouro usa game/trophy. Decisão 0038." }
     },
     "category": {
       "$description": "Decisões 0007 e 0008.",
@@ -27,6 +29,9 @@
       "mint": { "fg": { "$value": "{color.mint.300}" }, "bg": { "$value": "{color.mint.900}" } }
     },
     "control": { "knob": { "$value": "{color.neutral.0}" }, "knob-off": { "$value": "{color.neutral.300}" } },
-    "overlay": { "scrim": { "$value": "#0A161BB3", "$description": "Fundo escurecido atrás de Dialog e BottomSheet: neutral/950 a 70%, igual nos dois temas. Decisão 0031." } }
+    "overlay": {
+      "scrim": { "$value": "#0A161BB3", "$description": "Fundo escurecido atrás de Dialog e BottomSheet: neutral/950 a 70%, igual nos dois temas. Decisão 0031." },
+      "on-art": { "$value": "#0A161B3D", "$description": "Painel translúcido sobre a arte do HeroCard: neutral/950 a 24%, igual nos dois temas. Decisão 0041." }
+    }
   }
 }
