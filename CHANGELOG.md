@@ -10,6 +10,11 @@ O HeroCard passa para Estável, e o app ganha um pacote de correções pronto pa
 - Ícone `icon/ui/chevron-up`.
 - HeroCard com a propriedade `Collapse`: botão tonal com seta para recolher a arte. Só a toca usa.
 - Na página HeroCard, o exemplo "Toca no app", montado com o conteúdo real e com a tabela do app para os tokens.
+- Quadro "Como foi construído" do HeroCard gerado de novo, já com o `Collapse`. O quadro de ícones de interface passa a ter 33 ícones.
+
+### Documentação
+- zeroheight: página HeroCard com a imagem do exemplo "Toca no app" e uma linha sobre o `Collapse` no resumo. Arquivo do Figma sincronizado.
+- Doc de ajustes: resultado do script de conferência rodado nas cinco abas do app.
 
 ### Adicionado (app)
 - `app/correcoes-0.16.1/`: CSS e JS com o Switch acessível, o fundo escurecido com `overlay/scrim` e o raio 24 na folha e no Dialog. Testado no app publicado.
